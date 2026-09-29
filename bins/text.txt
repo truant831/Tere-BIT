@@ -1,0 +1,68 @@
+[truant@egor-redmibookpro ~]$ picotool info -a backup.uf2 
+File backup.uf2 family ID 'rp2040':
+
+Program Information
+ name:              usb_token
+ version:           0.1
+ binary start:      0x10000000
+ binary end:        0x100067f0
+
+Fixed Pin Information
+ 25:                LED
+
+Build Information
+ sdk version:       2.2.0
+ pico_board:        pico
+ boot2_name:        boot2_w25q080
+ build date:        Mar 11 2026
+ build attributes:  Release
+
+Metadata Blocks
+ none
+[truant@egor-redmibookpro ~]$ 
+
+[truant@egor-redmibookpro ~]$ picotool info -a backup_2.uf2 
+File backup_2.uf2 family ID 'rp2040':
+
+Program Information
+ name:              usb_token
+ version:           0.1
+ binary start:      0x10000000
+ binary end:        0x100067f0
+
+Fixed Pin Information
+ 25:                LED
+
+Build Information
+ sdk version:       2.2.0
+ pico_board:        pico
+ boot2_name:        boot2_w25q080
+ build date:        Mar 11 2026
+ build attributes:  Release
+
+Metadata Blocks
+ none
+[truant@egor-redmibookpro ~]$ 
+
+[truant@egor-redmibookpro ~]$ picotool info -a backup_prog.uf2 
+File backup_prog.uf2 family ID 'rp2040':
+
+Program Information
+ name:              usb_token
+ version:           0.1
+ binary start:      0x10000000
+ binary end:        0x100067f0
+
+Fixed Pin Information
+ 25:                LED
+
+Build Information
+ sdk version:       2.2.0
+ pico_board:        pico
+ boot2_name:        boot2_w25q080
+ build date:        Mar 11 2026
+ build attributes:  Release
+
+Metadata Blocks
+ none
+[truant@egor-redmibookpro ~]$
