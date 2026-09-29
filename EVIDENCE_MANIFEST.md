@@ -1,0 +1,29 @@
+# Evidence manifest
+
+- `README.md` — 38649 bytes — `3be8d5aff99b4561c6441e03a211a2bec99358e4d123b4b7b1082b1308d46ac5`
+- `README_SIMPLE.md` — 13566 bytes — `617fd7be8df527f0d279971657188148067934201f605322195c95c4569942b7`
+- `artifacts/firmware/backup_prog.bin` — 26608 bytes — `1713db3fe890afe02303fd5bafc6d7d1a389b6d0c5786262119bb4d5a11815e4`
+- `artifacts/swd/rp2040_flash_swd.bin` — 2097152 bytes — `12f0075119a3e9af929c9a404003ec8bd35e7c50e4a92822e05635e9042cd606`
+- `artifacts/swd/rp2040_xip_full.bin` — 2097152 bytes — `28c014d71be47333b38ba56183ce2cc7bef419313f7c750aca99f6fa56155234`
+- `artifacts/swd/swd_dump.bin` — 26608 bytes — `1713db3fe890afe02303fd5bafc6d7d1a389b6d0c5786262119bb4d5a11815e4`
+- `artifacts/swd/xip_test.bin` — 4096 bytes — `31324343b484c09f15fd9a150bef2cb7e177e8a43abfdb545c71a9c036260ddf`
+- `assets/bruteforce/bruteforce_end_preview.jpg` — 76648 bytes — `00243c5b786a89e36caf36ddbe4b7b8ce2b44cc1134429f4bd63f620080acf71`
+- `assets/bruteforce/bruteforce_timelapse_preview.jpg` — 77354 bytes — `98549fd78d4831d91be2541ab8005de2d8610b5711a624c78a26b42ac8d739e2`
+- `assets/bruteforce/emulation_explanation_preview.jpg` — 64941 bytes — `30610c40d7847b2f26a42651fd78fbbd9a173d6e286b0c31088f88dbac89392e`
+- `assets/bruteforce/soldering_preview.jpg` — 63525 bytes — `703f1e5f8b845c610d1c5a97f4552ca17704ae5d852fb0ab9c303c303c4f67a7`
+- `assets/ida/ida_timelapse_preview.jpg` — 144788 bytes — `7a253112d2cbb4027a82edb1819dbcd7120f658226a28ac10b313dca9b749e85`
+- `assets/ida/password_hex_0x10005500.jpg` — 827491 bytes — `87a36c49857ddb16d41c0ef7cfec94f1be3745234ccadf681535c72de918995b`
+- `assets/ida/password_input_loop_graph.jpg` — 137466 bytes — `c62af04bfaece5182a2fcd714b88c20e319704b813ab5ba321c3729206dc3a41`
+- `assets/swd/rp2040_swd_solder_closeup.jpg` — 522773 bytes — `f92148b66d1e6ecb590bfffa1f76571dd7bca0577b48571e8e1d2c418e8c4a68`
+- `assets/swd/rp2040_swd_solder_scale.jpg` — 452808 bytes — `71f840772a105a120959c772238063e6fff74f8d57318ff7ec604b81781b0c3e`
+- `assets/swd/swd_success_original.jpg` — 565576 bytes — `77bb7f8b39f867554d968f0a3a41e41cdace00d05490785e1b008bde8f5b860e`
+- `assets/swd/swd_terminal_and_usb_drive.jpg` — 310799 bytes — `da38b61df0b88da0dd84073c80cc3e1180a3b8654279ae867f1c56608097f42d`
+- `code/hack.py` — 1605 bytes — `34eba406e3a6aaea9b65d8a22080e40b20e0542c1baf4a14eed2509dca2a67ff`
+- `docs/Positive Technologies.pdf` — 1812854 bytes — `f993b039d59c6758303ba4e06712b1bb66da798d7c3a9832bf83a4a34522eb60`
+- `media/bruteforce/contact_soldering_timelapse.mp4` — 18038674 bytes — `5ad69cb3ab2241fe7592ba57844f36cff9d04bae2fa369925a5663d94399266c`
+- `media/bruteforce/encoder_emulation_explanation.mp4` — 26165354 bytes — `d284b55898e6fbf7a647530e601c57bdf77c0fd49dfb176f01f168f5be55837c`
+- `media/bruteforce/password_bruteforce_timelapse.mp4` — 3637033 bytes — `da8e6a5dbf27032cf01588c1af65f835ece7efcd6736b9d4e8aad9f9851312f2`
+- `media/ida/ida_analysis_timelapse.mp4` — 26779771 bytes — `4b533b81a8895a3673c40639c2503ad01f8206089ae026d9e06a4be671896a2a`
+- `notes/перебор пароля.md` — 2302 bytes — `72ecf3763cd9d9e614663806403cbe72a8034e0b764a9d35c1e4c63742fa1cbc`
+- `tools/decrypt_rp2040_disk.py` — 1670 bytes — `a593289e407860606a43cd5e423435b8600dc3233eac19defe03e8e78d417ff1`
+- `tools/unpack_layers.py` — 1610 bytes — `7d5493b8df76516274606b8e9f4a0e90ae458d37f0eea80bdbdd861a1f56564e`
